@@ -1,0 +1,46 @@
+{
+    
+    "datapenyakit": [
+      { "id": 1, 
+        "title": "Gangguan Jiwa", 
+        "jenis": "Sangat Umum",
+        "img": "https://www.barendspsychology.com/wp-content/uploads/2018/07/Gangguan-Mental.png",
+        "desc" : "Gangguan cemas ditandai dengan kecemasan saat merespon situasi atau objek tertentu yang sulit untuk dikendalikan, sehingga menyebabkan pengidapnya merasa takut dan panik hingga jantungnya berdetak lebih cepat. Kecemasan bisa berupa gangguan panik (panic attack), fobia,  dan gangguan cemas sosial."
+        },
+      {
+        "id": 2, 
+        "title": "Gangguan Mood", 
+        "jenis": "Umum",
+        "img": "https://www.logosconsulting.co.id/media/wp-content/uploads/2023/01/Gangguan-Suasana-Hati-Mood-Disorder.jpg",
+        "desc" : "Gangguan tentang suasana hati ini bisa melibatkan perasaan dalam tempo yang sangat panjang. Perasaan yang muncul bisa terlalu sedih atau juga terlalu bahagia. Gangguan mood yang paling umum dirasakan adalah depresi, bipolar, dan siklotimik."
+      },
+      {
+        "id": 3, 
+        "title": "Gangguan Psikotik", 
+        "jenis": "Umum",
+        "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1690857604/attached_image/penyakit/psikiatri/gangguan-psikotik-akut.jpg",
+        "desc" : "Gangguan tentang suasana hati ini bisa melibatkan perasaan dalam tempo yang sangat panjang. Perasaan yang muncul bisa terlalu sedih atau juga terlalu bahagia. Gangguan mood yang paling umum dirasakan adalah depresi, bipolar, dan siklotimik."
+      },
+      {
+        "id": 4, 
+        "title": "Skizofrenia", 
+        "jenis": "Umum",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkfirQpM7XJD322RH_YaDD9FYjAHf0giBX0u8a8929CNqcaSP26I5SOM3nv003POdd1EI&usqp=CAU",
+        "desc" : "Gangguan tentang suasana hati ini bisa melibatkan perasaan dalam tempo yang sangat panjang. Perasaan yang muncul bisa terlalu sedih atau juga terlalu bahagia. Gangguan mood yang paling umum dirasakan adalah depresi, bipolar, dan siklotimik."
+      },      
+      {
+        "id": 5, 
+        "title": "Gangguan makan", 
+        "jenis": "Umum",
+        "img": "https://www.emc.id/files/CarePlus/2023/Aug/binge%20eating.jpg",
+        "desc" : "Gangguan makan termasuk ke dalam salah satu penyakit mental karena berurusan dengan psikologi dari seseorang. Orang yang mengalami gangguan ini bisa merasa harus atau tidak harus mengonsumsi sebuah makanan. Gangguan makan bisa membuat orang bisa mengonsumsi makanan dalam porsi yang banyak hingga menjadi kelebihan berat badan. Bisa juga menjadi enggan makan hingga memuntahkan kembali makanan yang sudah dimasukkan."
+      },      
+      {
+        "id": 6, 
+        "title": "Gangguan kecanduan", 
+        "jenis": "Umum",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZJqWeVkUpIjSb77qj_bF7BT77Mp6-YDBcVTvnICNRVPCgR21I5l3iPFKTR_qnCuybSQ&usqp=CAU",
+        "desc" : "Penyakit mental ini membuat orang sulit menahan dorongan untuk melakukan sesuatu yang seringnya membahayakan diri. Gangguan yang paling sering dijumpai adalah kecanduan rokok, alkohol, hingga obat-obatan. Ada juga kecanduan yang bisa merugikan diri sendiri dan orang lain, seperti kecanduan judi, mencuri, hingga membakar benda yang ada di sekitarnya."
+      }
+  ]
+}
